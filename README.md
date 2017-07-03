@@ -1,4 +1,5 @@
 # Whack-a-pod
+
 This is a demo that can be used to show how resilient services running on
 Kubernetes can be. Main app shows a giant sign that flashes in various random
 colors.  Those colors come a Kubernetes powered microservice.  If the service
